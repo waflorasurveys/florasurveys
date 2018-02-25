@@ -3,10 +3,10 @@ main:
   - title: "Home"
     url: https://waflorasurveys.github.io/florasurveys/
   - title: "About"
-    url: https://waflorasurveys.github.io/florasurveys/About
-  - title: "Home"
-    url: https://waflorasurveys.github.io/florasurveys/
-  - title: "Home"
-    url: https://waflorasurveys.github.io/florasurveys/
-  - title: "Home"
-    url: https://waflorasurveys.github.io/florasurveys/
+    url: /about/
+  - title: "Posts"
+    url: https://waflorasurveys.github.io/florasurveys/Posts
+  - title: "Habitats"
+    url: https://waflorasurveys.github.io/florasurveys/Habitats
+  - title: "Mapping"
+    url: https://waflorasurveys.github.io/florasurveys/Mapping

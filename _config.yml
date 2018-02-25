@@ -5,6 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+include: ["_pages"]
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 remote_theme             : "mmistakes/minimal-mistakes"
 # Site Settings
@@ -126,6 +127,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -244,7 +246,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
 
 # Defaults
 defaults:
