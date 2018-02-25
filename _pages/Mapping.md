@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /mapping/
+permalink: /Mapping/
 title: "Mapping"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
