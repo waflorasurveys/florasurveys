@@ -10,10 +10,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 remote_theme             : "mmistakes/minimal-mistakes"
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Flora Surveys"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Patrick"
+description              : "Plant biodiversity in the Puget Sound Region"
 url                      : "https://waflorasurveys.github.io" 
 baseurl                  : "/florasurveys" # the subpath of your site, e.g. "/blog"
 repository               : "waflorasurveys/florasurveys" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -91,7 +91,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Patrick"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
