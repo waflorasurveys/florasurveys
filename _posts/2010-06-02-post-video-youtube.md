@@ -1,7 +1,7 @@
 ---
 title: "Post: Video (YouTube)"
 categories:
-  - Post Formats
+  - forays
 tags:
   - Post Formats
 ---
