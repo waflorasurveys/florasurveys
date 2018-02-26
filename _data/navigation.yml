@@ -4,9 +4,11 @@ main:
     url: https://waflorasurveys.github.io/florasurveys/
   - title: "About"
     url: /about/
-  - title: "Posts"
-    url: https://waflorasurveys.github.io/florasurveys/Posts
+  - title: "News"
+    url: https://waflorasurveys.github.io/florasurveys/News
   - title: "Habitats"
     url: https://waflorasurveys.github.io/florasurveys/Habitats
   - title: "Mapping"
     url: https://waflorasurveys.github.io/florasurveys/Mapping
+  - title: "Forays"
+    url: https://waflorasurveys.github.io/florasurveys/Forays

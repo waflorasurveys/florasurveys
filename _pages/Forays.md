@@ -1,9 +1,9 @@
 ---
 layout: single
 author_profile: true
-permalink: /Posts/
-title: "Posts"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+permalink: /Forays/
+title: "Forays"
+excerpt: "Notes and updates on projects"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
