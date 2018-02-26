@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /about/
   - title: "News"
-    url: https://waflorasurveys.github.io/florasurveys/News
+    url: https://waflorasurveys.github.io/florasurveys/news
   - title: "Habitats"
     url: https://waflorasurveys.github.io/florasurveys/Habitats
   - title: "Mapping"
