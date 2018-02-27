@@ -1,5 +1,4 @@
 ---
-layout: single
 author_profile: true
 permalink: /Habitats/
 title: "Habitats"
@@ -17,6 +16,8 @@ layouts_gallery:
 last_modified_at: 2018-01-10T11:22:24-05:00
 toc: true
 ---
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 600px; }</style><div class='embed-container'><iframe src="https://onedrive.live.com/embed?resid=C763778B1B0010E0%212111&authkey=%21AJkbBM6IVBbfLVU&em=2&ActiveCell=a1&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True" frameborder='0' allowfullscreen></iframe></div>
+
 
 Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
 
