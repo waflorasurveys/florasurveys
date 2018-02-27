@@ -18,13 +18,13 @@ last_modified_at: 2018-01-10T11:22:24-05:00
 toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+Flora observations are mapped locations of plant species. 
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+## Flora Observations Map
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | absolute_url }}){: .btn .btn--success .btn--large}
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://waflorasurveys.maps.arcgis.com/apps/Minimalist/index.html?appid=d41d8102dee54bb9a282d90ffa6f7de2' frameborder='0' allowfullscreen></iframe></div>
 
-## Notable Features
+[Full Screen Map]({{ "http://waflorasurveys.maps.arcgis.com/apps/Minimalist/index.html?appid=d41d8102dee54bb9a282d90ffa6f7de2" }}){: .btn .btn--success .btn--large}
 
 - Bundled as a "theme gem" for easier install/upgrading.
 - Compatible with GitHub Pages.
