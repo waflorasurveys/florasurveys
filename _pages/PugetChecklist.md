@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 permalink: /resources/pugetchecklist
 title: "Lower Puget Sound Checklist"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
