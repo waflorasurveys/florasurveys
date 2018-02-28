@@ -3,6 +3,8 @@ layout: archive
 permalink: /forays/
 title: "botany forays"
 author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 

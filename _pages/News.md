@@ -3,6 +3,8 @@ layout: archive
 permalink: /news/
 title: "Recent News"
 author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 {% assign postsByYear = site.posts | where: "categories","news" | group_by_exp:"post", "post.date | date: '%Y'" %}
