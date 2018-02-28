@@ -5,13 +5,10 @@ title: "Recent News"
 author_profile: true
 ---
 
-{% include group-by-array collection=site.posts field="categories" %}
-
-{% for category in group_names %}
-  {% if category == 'news' %}
-    {% assign posts = group_items[forloop.index0] %}
-    {% for post in posts %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endif %}
+{% assign postsByYear = site.posts | where: "categories","news" | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+  <h2 id="{{ year.name | slugify }}" class="archive__subtitle">{{ year.name }}</h2>
+  {% for post in year.items %}
+    {% include archive-single.html %}
+  {% endfor %}
 {% endfor %}
