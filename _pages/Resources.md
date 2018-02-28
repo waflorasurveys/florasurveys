@@ -20,5 +20,6 @@ sidebar:
   nav: "docs"
 ---
 ## Checklists
-[Puget Sound Checklist]: {{ "https://waflorasurveys.github.io/florasurveys/resources/pugetchecklist" | absolute_url}}
-    - Interactive plant checklist for the lower puget sound area
+
+[Puget Sound Checklist]("https://waflorasurveys.github.io/florasurveys/resources/pugetchecklist")
+- Interactive checklist
