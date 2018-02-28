@@ -2,7 +2,7 @@
 layout: archive
 permalink: /forays/
 title: "botany forays"
-author_profile: true
+author_profile: false
 sidebar:
   nav: "docs"
 ---

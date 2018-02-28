@@ -2,7 +2,7 @@
 layout: archive
 permalink: /news/
 title: "Recent News"
-author_profile: true
+author_profile: false
 sidebar:
   nav: "docs"
 ---
