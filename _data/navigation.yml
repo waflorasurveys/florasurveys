@@ -6,9 +6,54 @@ main:
     url: /about/
   - title: "News"
     url: https://waflorasurveys.github.io/florasurveys/news
-  - title: "Habitats"
-    url: https://waflorasurveys.github.io/florasurveys/Habitats
+  - title: "Resources"
+    url: https://waflorasurveys.github.io/florasurveys/resources
   - title: "Mapping"
     url: https://waflorasurveys.github.io/florasurveys/Mapping
   - title: "Forays"
     url: https://waflorasurveys.github.io/florasurveys/forays
+
+docs:
+  - title: Flora Observation Mapping
+    children:
+      - title: "The Map"
+        url: /Mapping/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/
+
+  - title: Resources
+    children:
+      - title: "Puget Sound Checklist"
+        url: /resources/pugetchecklist
+      - title: "Navigation"
+        url: /docs/navigation/
+      - title: "UI Text"
+        url: /docs/ui-text/
+      - title: "Authors"
+        url: /docs/authors/
+      - title: "Layouts"
+        url: /docs/layouts/
+
+  - title: Content
+    children:
+      - title: "Working with Posts"
+        url: /docs/posts/
+      - title: "Working with Pages"
+        url: /docs/pages/
+      - title: "Working with Collections"
+        url: /docs/collections/
+      - title: "Helpers"
+        url: /docs/helpers/
+      - title: "Utility Classes"
+        url: /docs/utility-classes/
+
+  - title: Extras
+    children:
+      - title: "Stylesheets"
+        url: /docs/stylesheets/
+      - title: "JavaScript"
+        url: /docs/javascript/

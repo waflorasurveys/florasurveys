@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 permalink: /Mapping/
 title: "Mapping"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
@@ -16,6 +16,8 @@ layouts_gallery:
     alt: "archive layout example"
 last_modified_at: 2018-01-10T11:22:24-05:00
 toc: true
+sidebar:
+  nav: "docs"
 ---
 
 Flora observations are mapped locations of plant species. 
