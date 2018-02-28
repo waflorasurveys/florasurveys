@@ -21,5 +21,5 @@ sidebar:
 ---
 ## Checklists
 
-[Puget Sound Checklist]("https://waflorasurveys.github.io/florasurveys/resources/pugetchecklist")
+[Puget Sound Checklist](https://waflorasurveys.github.io/florasurveys/resources/pugetchecklist)
 - Interactive checklist
