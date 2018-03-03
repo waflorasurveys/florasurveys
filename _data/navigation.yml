@@ -2,22 +2,24 @@
 main:
   - title: "Home"
     url: https://waflorasurveys.github.io/florasurveys/
-  - title: "About"
-    url: /about/
+  - title: "Flora Observations"
+    url: https://waflorasurveys.github.io/florasurveys/FloraObservations
   - title: "News"
     url: https://waflorasurveys.github.io/florasurveys/news
-  - title: "Resources"
-    url: https://waflorasurveys.github.io/florasurveys/resources
-  - title: "Mapping"
-    url: https://waflorasurveys.github.io/florasurveys/Mapping
   - title: "Forays"
     url: https://waflorasurveys.github.io/florasurveys/forays
+  - title: "Resources"
+    url: https://waflorasurveys.github.io/florasurveys/resources
+  - title: "Prairie Oak"
+    url: https://waflorasurveys.github.io/florasurveys/PrairieOak
+  - title: "About"
+    url: /about/
 
 docs:
   - title: Flora Observation Mapping
     children:
       - title: "The Map"
-        url: /Mapping/
+        url: /FloraObservations/
       - title: "Structure"
         url: /docs/structure/
       - title: "Installation"

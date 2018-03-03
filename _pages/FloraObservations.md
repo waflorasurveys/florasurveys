@@ -1,8 +1,8 @@
 ---
 layout: single
 author_profile: false
-permalink: /Mapping/
-title: "Mapping"
+permalink: /FloraObservations/
+title: "Flora Observations"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
