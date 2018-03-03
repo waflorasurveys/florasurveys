@@ -35,6 +35,6 @@ docs:
     url: /habitats/
     children:
       - title: "Prairie Oak"
-        url: /Habitats/PrairieOak/
+        url: /habitats/prairieoak/
       - title: "Floristic Quality Index"
-        url: /Habitats/FQA/
+        url: /habitats/fqa/
