@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-permalink: /PrairieOak/
+permalink: /Habitats/PrairieOak/
 title: "Prairie Oak"
 excerpt: "Prairie Oak habitat information "
 layouts_gallery:

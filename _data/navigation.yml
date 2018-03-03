@@ -10,8 +10,8 @@ main:
     url: https://waflorasurveys.github.io/florasurveys/forays
   - title: "Resources"
     url: https://waflorasurveys.github.io/florasurveys/resources
-  - title: "Prairie Oak"
-    url: https://waflorasurveys.github.io/florasurveys/PrairieOak
+  - title: "Habitats"
+    url: https://waflorasurveys.github.io/florasurveys/Habitats
   - title: "About"
     url: /about/
 
@@ -31,22 +31,10 @@ docs:
         url: /resources/pugetchecklist
 
 
-  - title: Content
+  - title: Habitats
+    url: /Habitats/
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+      - title: "Prairie Oak"
+        url: /Habitats/PrairieOak/
+      - title: "Floristic Quality Index"
+        url: /Habitats/FQA/
