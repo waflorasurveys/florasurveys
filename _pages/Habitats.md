@@ -1,9 +1,9 @@
 ---
 layout: single
 author_profile: false
-permalink: /PrairieOak/
-title: "Prairie Oak"
-excerpt: "Prairie Oak habitat information "
+permalink: /Habitats/
+title: "Habitats"
+excerpt: "Habitats and Floristic Quality Index"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
