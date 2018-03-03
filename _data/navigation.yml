@@ -11,7 +11,7 @@ main:
   - title: "Resources"
     url: https://waflorasurveys.github.io/florasurveys/resources
   - title: "Habitats"
-    url: https://waflorasurveys.github.io/florasurveys/Habitats
+    url: https://waflorasurveys.github.io/florasurveys/habitats
   - title: "About"
     url: /about/
 
@@ -32,7 +32,7 @@ docs:
 
 
   - title: Habitats
-    url: /Habitats/
+    url: /habitats/
     children:
       - title: "Prairie Oak"
         url: /Habitats/PrairieOak/

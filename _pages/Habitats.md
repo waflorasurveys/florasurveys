@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-permalink: /Habitats/
+permalink: /habitats/
 title: "Habitats"
 excerpt: "Habitats and Floristic Quality Index"
 layouts_gallery:
