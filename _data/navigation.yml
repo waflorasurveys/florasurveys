@@ -17,28 +17,19 @@ main:
 
 docs:
   - title: Flora Observation Mapping
+    url: /FloraObservations/
     children:
       - title: "The Map"
         url: /FloraObservations/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+      - title: "Become a Mapper"
+        url: /FloraObservations/HowTo
 
   - title: Resources
+    url: /Resources/
     children:
       - title: "Puget Sound Checklist"
         url: /resources/pugetchecklist
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+
 
   - title: Content
     children:
