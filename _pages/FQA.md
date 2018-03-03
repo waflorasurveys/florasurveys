@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-permalink: /habitats/fqa
+permalink: /habitats/fqa/
 title: "Floristic Quality Index"
 excerpt: "Floristic Quality Index"
 layouts_gallery:
