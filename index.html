@@ -20,31 +20,29 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/cypland.jpg
     alt: "Habitats"
-    title: "Forays"
-    excerpt: "Recent Survey Trips"
-    url: "https://waflorasurveys.github.io/florasurveys/forays/"
-    btn_label: "Forays"
+    title: "Habitats"
+    excerpt: "Habitat projects"
+    url: "https://waflorasurveys.github.io/florasurveys/habitats/"
+    btn_label: "Habitats"
     btn_class: "btn--primary"
   - image_path: /assets/images/orthoimbrLand.jpg
-    title: "News"
-    excerpt: "general news"
-    url: "https://waflorasurveys.github.io/florasurveys/news/"
-    btn_label: "news"
-    btn_class: "btn--primary"
-feature_row2:
-  - title: "Resources"
-    image_path: /assets/images/BalsamRoot.JPG
-    alt: "placeholder image 1"
-    excerpt: "Checklists and Etc."
+    title: "Resources"
+    excerpt: "Checkists etc."
     url: "https://waflorasurveys.github.io/florasurveys/resources/"
     btn_label: "Resources"
     btn_class: "btn--primary"
+feature_row3:
+  - title: "Recent News"
 feature_row4:
   - image_path: /assets/images/R0000007.JPG
     title: "About"
-    excerpt: "More About this Site"
     url: "https://waflorasurveys.github.io/florasurveys/about/"
-    btn_label: "about"
+    btn_label: "More About this Site"
+    btn_class: "btn--primary"
+feature_row5:
+  - title: "Recent Forays"
+    url: "https://waflorasurveys.github.io/florasurveys/forays/"
+    btn_label: "more forays"
     btn_class: "btn--primary"
 ---
 
@@ -52,6 +50,20 @@ feature_row4:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row5" type="center" %}
+<div class="grid__wrapper">
+  {% assign news = site.posts | where: "categories","forays" %}
+  {% for post in news limit: 3 %}
+      {% include archive-single.html type="grid" %}     
+  {% endfor %}
+</div>
 
-{% include feature_row id="feature_row4" type="right" %}
+{% include feature_row id="feature_row3" type="center" %}
+<div class="grid__wrapper">
+  {% assign news = site.posts | where: "categories","news" %}
+  {% for post in news limit: 3 %}
+      {% include archive-single.html type="grid" %}     
+  {% endfor %}
+</div>
+
+{% include feature_row id="feature_row4" type="center" %}

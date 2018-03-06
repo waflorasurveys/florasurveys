@@ -24,8 +24,9 @@ docs:
       - title: "Become a Mapper"
         url: /FloraObservations/HowTo
 
+
   - title: Resources
-    url: /Resources/
+    url: /resources/
     children:
       - title: "Puget Sound Checklist"
         url: /resources/pugetchecklist
