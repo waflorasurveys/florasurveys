@@ -24,9 +24,9 @@ Flora observations are mapped locations of plant species.
 
 ## Flora Observations Map
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://waflorasurveys.maps.arcgis.com/apps/Minimalist/index.html?appid=d41d8102dee54bb9a282d90ffa6f7de2' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://arcg.is/1vvbSC' frameborder='0' allowfullscreen></iframe></div>
 
-[Full Screen Map]({{ "https://waflorasurveys.maps.arcgis.com/apps/Minimalist/index.html?appid=d41d8102dee54bb9a282d90ffa6f7de2" }}){: .btn .btn--success .btn--large}
+[Full Screen Map]({{ "http://arcg.is/1vvbSC" }}){: .btn .btn--success .btn--large}
 
 Record your own observations using Survey123.
 
