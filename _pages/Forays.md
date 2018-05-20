@@ -4,7 +4,7 @@ permalink: /forays/
 title: "botany forays"
 author_profile: false
 sidebar:
-  nav: "docs"
+  nav: "posts"
 ---
 
 
