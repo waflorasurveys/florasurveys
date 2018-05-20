@@ -3,10 +3,6 @@ title: "Oak Patch Lake - Kitsap Penninsula"
 excerpt_separator: "<!--more-->"
 categories:
   - forays
-tags:
-  - Post Formats
-  - readability
-  - standard
 date: 2018-05-06
 author_profile: false
 sidebar:
