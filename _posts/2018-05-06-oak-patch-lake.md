@@ -8,7 +8,7 @@ author_profile: false
 sidebar:
   nav: "docs"
 header:
-  teaser: https://flic.kr/p/24ztAL3
+  teaser: https://farm1.staticflickr.com/910/40416592170_0ebe7857dd.jpg
 ---
 
 <h1>A day botanizing near Oak Patch Lake on the Kitsap Penninsula</h1>
