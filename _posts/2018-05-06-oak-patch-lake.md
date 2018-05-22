@@ -11,7 +11,7 @@ header:
   teaser: https://farm1.staticflickr.com/910/40416592170_0ebe7857dd.jpg
 ---
 
-A day botanizing near Oak Patch Lake on the Kitsap Penninsula
+*A day botanizing near Oak Patch Lake on the Kitsap Penninsula*
 
 ## Photo Slideshow
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/156212250@N04/albums/72157667122889887" title="Oak Patch Lake - Kitsap Penninsula"><img src="https://farm1.staticflickr.com/949/42223713301_6ad9371947_k.jpg" width="375" height="500" alt="Oak Patch Lake - Kitsap Penninsula"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
