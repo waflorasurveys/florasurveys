@@ -22,18 +22,18 @@ header:
 
 
 # Partial Species List
-Antennaria howellii ssp. howellii - Howell's pussytoes
-Apocynum androsaemifolium - spreading dogbane
-Chimaphila menziesii - little prince's-pine
-Erythronium oregonum ssp. oregonum - giant fawn lily, deer's tongue, wild easter lily
-Lathyrus nevadensis var. nevadensis - Sierra pea
-Melica subulata - Alaska oniongrass
-Moehringia macrophylla - large-leaf sandwort
-Nemophila parviflora var. parviflora - small-flowered nemophila
-Rupertia physodes - California-tea
-Thlaspi arvense - field pennycress, fanweed
-Trientalis latifolia - western starflower, broad-leaved starflower
-Viola howellii - Howell's violet
+- Antennaria howellii ssp. howellii / Howell's pussytoes
+- Apocynum androsaemifolium / spreading dogbane
+- Chimaphila menziesii / little prince's-pine
+- Erythronium oregonum ssp. oregonum / giant fawn lily, deer's tongue, wild easter lily
+- Lathyrus nevadensis var. nevadensis / Sierra pea
+- Melica subulata / Alaska oniongrass
+- Moehringia macrophylla / large-leaf sandwort
+- Nemophila parviflora var. parviflora / small-flowered nemophila
+- Rupertia physodes / California-tea
+- Thlaspi arvense / field pennycress, fanweed
+- Trientalis latifolia / western starflower, broad-leaved starflower
+- Viola howellii / Howell's violet
 
 
 
