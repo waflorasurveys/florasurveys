@@ -26,9 +26,12 @@ header:
 - Ceanothus sanguineus / redstem ceanothus, Oregon teatree
 - Circaea alpina / enchanter's nightshade
 - Clinopodium douglasii / Oregon-tea
+- Corallorhiza maculata / spotted coralroot
+- Hedera colchica
 - Heuchera micrantha var. micrantha / small-flowered alumroot
 - Holcus lanatus / common velvet grass
 - Lilium columbianum / Columbian lily
+- Montia parvifolia / streambank springbeauty
 - Nemophila parviflora var. parviflora / small-flowered nemophila
 - Osmorhiza berteroi / mountain sweet-cicely, Chilean sweet-cicely
 - Pentagramma triangularis ssp. triangularis / gold fern, gold-back fern
@@ -39,6 +42,7 @@ header:
 - Taxus brevifolia / Pacific or western yew
 - Trifolium dubium / suckling clover, least hop clover
 - Trifolium wormskioldii / cow clover, salt marsh clover
+- Vicia americana
 
 
 
