@@ -2,7 +2,6 @@
 title: "Post: Standard"
 excerpt_separator: "<!--more-->"
 categories:
-  - news
 tags:
   - Post Formats
   - readability

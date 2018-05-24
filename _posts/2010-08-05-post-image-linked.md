@@ -1,7 +1,6 @@
 ---
 title: "Post: Image (with Link)"
-categories:
-  - forays
+
 tags:
   - image
   - Post Formats
