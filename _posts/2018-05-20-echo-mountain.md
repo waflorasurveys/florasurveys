@@ -19,6 +19,8 @@ header:
 ## Map
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.arcgis.com/apps/webappviewer/index.html?id=caaf617bce164d60b4a4b87e7e5937c4&extent=-13593580.0616%2C6013224.8411%2C-13589911.0843%2C6014882.5691%2C102100' frameborder='0' allowfullscreen></iframe></div>
 
+[Full Screen Map]({{ "http://www.arcgis.com/apps/webappviewer/index.html?id=caaf617bce164d60b4a4b87e7e5937c4&extent=-13593580.0616%2C6013224.8411%2C-13589911.0843%2C6014882.5691%2C102100" }}){: .btn .btn--success .btn--large}
+
 ## Partial Species List
 - Achillea millefolium / yarrow, milfoil
 - Acmispon parviflorus / short-flower bird's-foot-trefoil
